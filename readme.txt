@@ -1,0 +1,1 @@
+The white lines in each of these templates represent a row of small windows that are in front of the GreenScreen. If your piece is to display text, then please be aware that it might not display too well behind these windows.
